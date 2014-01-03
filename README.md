@@ -20,9 +20,9 @@
 *Instructions:*  
 
  1. Edit theme.php to include:  
- 	- class Theme_YourThemeName extends Theme    
- * Rename Theme folder to yourThemeName
- * Make sure all files are included
+    `class Theme_YourThemeName extends Theme`    
+ * Rename Theme folder to `yourThemeName`
+ * Make sure all files are included.
  	- Make sure all .css, .js, etc. files are referenced correctly  
- 	- Compress theme folder into .zip called yourThemeName.zip
- * Upload yourThemeName.zip to PryoCMS themes
+ 	- Compress theme folder into .zip called `yourThemeName.zip`
+ * Upload `yourThemeName.zip` to PryoCMS themes
